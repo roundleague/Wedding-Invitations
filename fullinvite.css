@@ -50,6 +50,8 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+  font-family: Rochester;
+  color: #6c7882;
 }
 
 a {
@@ -1802,6 +1804,7 @@ body {
 .text-floral-green {
   --tw-text-opacity: 1;
   color: rgb(152 180 166 / var(--tw-text-opacity));
+  font-size: 2rem;
 }
 
 .text-floral-pink {
